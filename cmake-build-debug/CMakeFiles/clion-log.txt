@@ -1,0 +1,5 @@
+"C:\Users\Beatrice Ndalichako\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Beatrice Ndalichako\Documents\COP3503\Minesweeper"
+-- Found SFML 2.5.1 in C:/Users/Beatrice Ndalichako/Desktop/SFML-2.5.1-windows-gcc-7.3.0-mingw-32-bit/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Beatrice Ndalichako/Documents/COP3503/Minesweeper/cmake-build-debug
